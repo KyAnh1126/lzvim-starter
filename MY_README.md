@@ -13,6 +13,8 @@
   - treesitter (treesitter.lua): a parser generator tool & an incremental parsing library => syntax tree (syntax highlighting)
   - formatting (formatting.lua): configure formatters for c/cpp (clang-format), js/ts (prettier), etc
   - clangd: a LSP for c/cpp, used for syntax errors, code completion, etc
+  - autocmds.lua: config tab width (when clicking Tab) = 4 for c/cpp files
+  - .clang-format: a specific format configuration file for c/cpp per project
 
 # LazyVim Cheat Sheet
 

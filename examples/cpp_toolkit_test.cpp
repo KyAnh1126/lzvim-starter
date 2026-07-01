@@ -22,9 +22,11 @@ int main() {
     a.makeSound();
 
     std::vector<int> nums = {1, 2, 3};
+    std::cout << nums[5] << '\n';
     for (auto n : nums) {
         std::cout << n << " ";
     }
+    std::cout << 'Hello';
 
     return 0;
 }
