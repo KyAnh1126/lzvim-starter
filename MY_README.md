@@ -30,6 +30,8 @@
 - **:{line-number}** = go to this line number
 - **:+{line-number}** = go down
 - **:-{line-number}** = go up
+- {line-number}j = go down
+- {line-number}l = go up
 
 ---
 
