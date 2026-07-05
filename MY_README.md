@@ -86,6 +86,8 @@
 
 - **b** = select the left word
 - **w** = select the right word
+- **{line-number}j = select {line-number} below
+- **{line-number}k = select {line-number} above
 
 ---
 
